@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\OMEGA\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\OMEGA\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Laser Defender.56530077.00" t="ExcludeRecursive" />
+    <e p="C:\Users\OMEGA\Documents\Unity 2019\Laser Defender" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Entities" t="Include">
+          <e p="Enemy" t="Include">
+            <e p="EnemyBehaviour.cs" t="Include" />
+          </e>
+          <e p="EnemyFormation" t="Include">
+            <e p="EnemySpawner.cs" t="Include" />
+            <e p="Position.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerController.cs" t="Include" />
+            <e p="Projectile.cs" t="Include" />
+          </e>
+          <e p="ScoreDisplay.cs" t="Include" />
+          <e p="Shredder.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="LevelManager.cs" t="Include" />
+          <e p="MusicPlayer.cs" t="Include" />
+          <e p="ScoreKeeper.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Laser Defender.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
